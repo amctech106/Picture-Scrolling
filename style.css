@@ -1,0 +1,39 @@
+section{
+    background-image: url(./Images/images.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    place-items: center;
+    background-attachment: fixed;
+    
+}
+
+h1{
+
+    font-size: 64px;
+    text-shadow: 05px 05px 05px black;
+    line-height: 16px;
+}
+
+p{
+    text-shadow: 05px 05px 05px black;
+    font-size: larger;
+}
+
+.section2{
+    background-image: url(./Images/bird-8788491_1280.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.section3{
+    background-image: url(./Images/bird-7216181_1280.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
